@@ -1,0 +1,35 @@
+[
+  {
+    "LearnerId": 1,
+    "LearnerNumber": "LS001",
+    "FirstName": "Letlhogonolo",
+    "LastName": "Setlhodi",
+    "Course": {
+      "CourseId": 1,
+      "CourseCode": "IP001",
+      "CourseName": "Introduction to Programming"
+    }
+  },
+  {
+    "LearnerId": 2,
+    "LearnerNumber": "IT001",
+    "FirstName": "Itumeleng",
+    "LastName": "Setlhodi",
+    "Course": {
+      "CourseId": 1,
+      "CourseCode": "IP001",
+      "CourseName": "Introduction to Programming"
+    }
+  },
+  {
+    "LearnerId": 3,
+    "LearnerNumber": "NL-001",
+    "FirstName": "Naledi",
+    "LastName": "Selhodi",
+    "Course": {
+      "CourseId": 1,
+      "CourseCode": "IP002",
+      "CourseName": "Introduction to Programming - Part 2"
+    }
+  }
+]
